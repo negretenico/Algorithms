@@ -16,10 +16,3 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 
 ---
 [4,32,5,7,1,3] -> [1,3,4,5,7,32]
-
-### Algorithims
-
-1. HeapSort
-   1. Uses a heap datastrucutre to achieve the sorting
-   2. modifies the provided array and does NOT return a new array rather the modfified version of the given array
-   3. θ(nlog(n)) where n is the size of the array
