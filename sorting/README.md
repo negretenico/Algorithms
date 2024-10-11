@@ -12,6 +12,11 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 
 [Credit](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
+## Simulation
+
+In order for us to run the simulation and see how each sorting algorithim pefroms on various number of n,. [1,10,100,1_000,10_000,100_000,1_000_000]
+run -> python .\sorting\main.py
+
 ## Example
 
 ---
