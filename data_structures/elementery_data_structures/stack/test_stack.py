@@ -16,3 +16,6 @@ class TestStack(unittest.TestCase):
     def test_is_empty(self):
         my_sttack = Stack(5)
         self.assertTrue(my_sttack.is_empty())
+
+if __name__ =="__main__":
+    unittest.main()

@@ -15,3 +15,5 @@ class TestQueue(unittest.TestCase):
         my_queue.enqueue(5)
         my_queue.enqueue(15)
         self.assertListEqual(my_queue.get_queue(),[5,15])
+if __name__ =="__main__":
+    unittest.main()
